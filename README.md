@@ -32,8 +32,9 @@ I've been learning to code a lot of languages and tried to clear some big challe
 
 <a href="http://www.github.com/PrathamKSrivastav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamKSrivastav&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/PrathamKSrivastav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamKSrivastav&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!--
+<a href="https://github.com/PrathamKSrivastav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamKSrivastav&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 **PrathamKSrivastav/PrathamKSrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
