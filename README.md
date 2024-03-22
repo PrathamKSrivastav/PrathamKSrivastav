@@ -1,6 +1,6 @@
-### Hi there 👋
-Hi 👋 My name is Pratham
-========================
+
+Hi 👋 My name is Pratham Kumar Srivastav
+=========================================
 
 Student
 -------
